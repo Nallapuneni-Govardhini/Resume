@@ -61,7 +61,7 @@ I want to become a web developer
          -Lazyness
          
  
- **Achievements **
+ **Achievements**
  
  
  **Projects**
