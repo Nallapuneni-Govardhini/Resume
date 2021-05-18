@@ -34,15 +34,11 @@
 
 **Skills**
 
--Python-100%
+-Python-80%
 
--Java-99%
+-c:80%
 
--c:98%
-
--Kotlin-97%
-
--DBMS-96%
+-DBMS-80%
 
 **Goals**
 
@@ -58,10 +54,17 @@ I want to become a web developer
   
   
     -Strengths:
-         -Quick Learner
+         -Hard Work
+         -Patience
   
     -weaknesses:
-         -Slow Learner
+         -Lazyness
+         
+ 
+ **Achievements **
+ 
+ 
+ **Projects**
          
          
  
