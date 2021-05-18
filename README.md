@@ -9,7 +9,7 @@
 -Mail id:ngovardhini999@gmail.com<br>
 -Phone:+91 xxxxxxxxxx <br>
 -Address: Anigandlapadu <br>
-### Educational Deatails:
+### Educational Deatails
 
 **B-Tech**
 
