@@ -35,9 +35,13 @@
 **Skills**
 
 -Python-100%
+
 -Java-99%
+
 -c:98%
+
 -Kotlin-97%
+
 -DBMS-96%
 
 **Goals**
