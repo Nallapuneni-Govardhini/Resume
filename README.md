@@ -50,7 +50,7 @@ I want to become a web developer
 -Listening to Music
 -Playing Guitar
 
-**Strengths  & Weaknesses**
+**Strengths & Weaknesses**
   
   
     -Strengths:
